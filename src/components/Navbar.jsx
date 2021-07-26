@@ -6,7 +6,7 @@ function Navbar() {
   return (
     <nav className="navbar">
       <GiAnticlockwiseRotation className="icon-navbar" />
-      <AiFillPlayCircle className="icon-navbar" />
+      <AiFillPlayCircle className="icon-navbar-play" />
       <GiShare className="icon-navbar" />
     </nav>
   );

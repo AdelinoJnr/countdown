@@ -25,18 +25,6 @@ header {
   height: 25px;
 }
 
-.content-icon-countdown {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.icon-countdown {
-  width: 60px;
-  height: 60px;
-  margin-top: 70px;
-}
-
 .content {
   display: flex;
   flex-direction: column;
@@ -64,13 +52,16 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #252531;
   height: 60px;
-  position: absolute;
-  bottom: 0;
+  margin-top: 50px;
 }
 
 .icon-navbar {
   width: 35px;
   height: 35px;
+}
+
+.icon-navbar-play {
+  width: 55px;
+  height: 55px;
 }
